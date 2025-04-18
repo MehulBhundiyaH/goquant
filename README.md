@@ -15,13 +15,13 @@ Deribit Trading System is a high-performance order execution and management syst
 
 ## Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![WebSocket++](https://img.shields.io/badge/websocketpp-3F54A3?style=for-the-badge&logo=websocket&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721817?style=for-the-badge&logo=openssl&logoColor=white)
-![JSON](https://img.shields.io/badge/json%20library-00599C?style=for-the-badge&logo=json&logoColor=white)
-![Boost](https://img.shields.io/badge/Boost%20C++-f34b7d?style=for-the-badge&logo=boost&logoColor=white)
-![Readline](https://img.shields.io/badge/Readline-4A90E2?style=for-the-badge&logo=gnu&logoColor=white)
+![C++]
+![CMake]
+![WebSocket++]
+![OpenSSL]
+![JSON]
+![Boost]
+![Readline]
 
 
 ## Prerequisites
